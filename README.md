@@ -36,12 +36,3 @@ streamlit run vision.py
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Credits
-
-- Streamlit: [https://streamlit.io](https://streamlit.io)
-- Google GenerativeAI: [https://cloud.google.com/generative-ai](https://cloud.google.com/generative-ai)
-
-```
-
-```
